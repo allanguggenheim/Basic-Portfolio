@@ -1,0 +1,7 @@
+{
+  "name": "Basic-Profile",
+  "description": "A Basic Profile",
+  "repository": "https://github.com/allanguggenheim/Basic-Portfolio",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["static"]
+}
