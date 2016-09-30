@@ -1,0 +1,129 @@
+body  {
+    background-image: url("../images/new_year_background.png");
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    	 padding-left: 20px;
+}
+
+.nav {
+	 padding-left: 200px;
+}
+
+#nav_wrap {
+ 	padding-left: 80px;
+	background-color: white;
+	width: 100%;
+	 
+}
+
+#wrapper {
+	width: 100%;
+}
+
+#leftpane_wrap {
+ 	/*padding-left: 80px;*/
+	background-color: white;
+	
+	height: 100%;
+	padding: 80px;
+	 
+}
+
+#rightpane_wrap {
+	padding-top: 100px;
+ 	padding-right: 200px;
+	background-color: white;
+	 
+}
+
+#name_wrap {
+	width: 220px;
+	height: 50px;
+	background-color: grey !important;
+	text-align: center;
+	  line-height: 60px;
+
+}
+
+aside.leftpane {
+    text-align: left;
+    overflow: scroll;
+    visibility: visible;
+
+    max-width: 70%;
+    top: 20%;
+    right:0%;  //ADDITION HERE
+}
+
+aside.rightpane {
+
+    margin-right:100px;
+    text-align: right;
+    overflow: scroll;
+    visibility: visible;
+    position: absolute;
+    max-width: 500px;
+    top: 20%;
+    right:0%;  //ADDITION HERE
+} 
+
+
+.social_icons {
+	width: 50px;
+	height: 50px;
+
+}
+
+
+#footer_green {
+	background-color: #4aaaa5;
+	height: 10px;
+
+}
+
+#footer_grey {
+	background-color: #666666;
+	height: 115px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 90px; 
+}
+
+#body_left {
+
+	background-color: white;
+	width: 650px;
+	margin-left: 80px; margin-top: 70px; margin-bottom: 70px; 
+	background-color: white; 
+	/*height: 100%;*/
+	float: left;
+	padding: 10px;
+}
+
+#body_right {
+	
+	background-color: white;
+	width: 270px;
+	margin-left: 50px; margin-top: 70px; margin-bottom: 70px;
+	background-color: white; 
+	/*height: 100%;*/
+	float: left !important;
+	padding: 10px;
+	vertical-align: top !important; 
+	display: inline-block;
+
+}
+
+.bigger_text {
+	font-size: 20px; 
+
+}
